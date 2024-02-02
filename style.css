@@ -25,7 +25,7 @@ header {
   gap: 1rem;
 }
 
-.beer_container article {
+.beer_article {
   background-color: rgb(249, 213, 166);
   padding: 2rem;
   display: flex;
